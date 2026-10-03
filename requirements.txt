@@ -1,0 +1,5 @@
+torch>=2.0
+streamlit>=1.30
+transformers>=4.30
+sentencepiece>=0.1.99
+pytest>=7.0
