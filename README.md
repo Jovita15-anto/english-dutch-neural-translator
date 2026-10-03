@@ -2,7 +2,7 @@
 
 An English-to-Dutch neural machine translator built **from scratch in PyTorch** (no `nn.Transformer`), with a Streamlit web app.
 
-![Screenshot](image.png)
+![![Screenshot](../image.png)]
 
 **Input:** `i love mathematics` → **Output:** `ik hou van wiskunde`
 
